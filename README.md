@@ -32,8 +32,8 @@ Our team had an exciting time working on this project, hoping to attract more an
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| XU JIACHEN | A0198491M | Solution Architect Software Development Documentation| e0402032@u.nus.edu |
-| LI XINLIN | A0198535N | Data mining Data solution design Software Development Project Video| e0402076@u.nus.edu |
+| XU JIACHEN | A0198491M | Solution Architect,Solution design,Software Development,Documentation| e0402032@u.nus.edu |
+| LI XINLIN | A0198535N | Data mining,Solution design Software Development,Project Video| e0402076@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
