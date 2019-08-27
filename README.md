@@ -42,12 +42,12 @@ Our team had an exciting time working on this project, hoping to attract more an
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/FoFxjc/IRS-CS-2019-09-31-IS01FT-GRP6-MiniMuseum-Chatbot/blob/master/UserGuide/User%20Guide%20Mini%20Museum.pdf>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/FoFxjc/IRS-CS-2019-09-31-IS01FT-GRP6-MiniMuseum-Chatbot/blob/master/ProjectReport/Project%20Report%20MiniMuseum.pdf>
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary
