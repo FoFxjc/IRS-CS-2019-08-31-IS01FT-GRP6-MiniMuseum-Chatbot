@@ -37,7 +37,7 @@ Our team had an exciting time working on this project, hoping to attract more an
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-
+[![Watch the video](http://img.youtube.com/vi/v38s4I5DLXc/0.jpg)](https://youtu.be/v38s4I5DLXc)
 
 ---
 ## SECTION 5 : USER GUIDE
