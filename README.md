@@ -9,13 +9,13 @@
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-This report is to introduce a chatbot system for the National Museum of Singapore. National Museum of Singapore is the nation's oldest museum that seeks to inspire with stories of Singapore and the world. It offers a wide range of exhibitions and programmes for visitors of all ages and group size. Every year, many tourists go there to visit various excellent exhibitions and experience exciting programmes. 
+This report is to introduce a chatbot system for the National Museum of Singapore. National Museum of Singapore is the nation's oldest museum that seeks to inspire with stories of Singapore and the world. It offers a wide range of exhibitions and programmes for visitors of all ages and group size. Every year, many tourists go there to visit various excellent exhibitions and experience exciting programmes.
 
 
 However, the official website of the National Museum of Singapore does not provide excellent guidance and introduction to various exhibitions and programmes. The reason is that the majority of the information on its website is relatively simple and not classified. Furthermore, major travel information providers, like Tripadvisor and DianPing.com, are more inclined to provide more comprehensive recommendation and introduction services for popular tourist attractions than the less attractive destination like museums.
 
 
-Our team consists of two Chinese students. We hope that all tourists can have a fascinating and enjoyable journey in the National Museum of Singapore, so we decide to create a system to let tourists get accurate and customised information more conveniently, and tourists can communicate with it using natural language. 
+Our team consists of two Chinese students, we hope that all tourists can have a fascinating and enjoyable journey in the National Museum of Singapore, so we decide to create a system to let tourists get accurate and customised information more conveniently, and tourists can communicate with it using natural language. 
 
 
 The system is the Mini Museum, an intelligent chatbot. Tourist can use Google assistant to talk with it for fundamental information, even getting the recommendation of exhibitions and programmes based on their travel plan in the National Museum of Singapore.
@@ -27,13 +27,14 @@ To complete this intelligent chatbot, our group first set out to investigate the
 Our team had an exciting time working on this project, hoping to attract more and more people for the Nation Museum of Singapore by getting them a better service and user experience. It is widely different from a complicated intelligent agent which can communicate with tourists and tourists can never tell any difference between it and a real human volunteer or museum staff. We are looking forward that we can have the opportunity and technique to build an actual intelligent agent in the future. The process of working on this project is exciting and helpful for us to learn more in the NLP field.
 
 
+
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | XU JIACHEN | A0198491M | Solution Architect,Solution design,Software Development,Documentation| e0402032@u.nus.edu |
-| LI XINLIN | A0198535N | Data mining,Solution design Software Development,Project Video| e0402076@u.nus.edu |
+| LI XINLIN | A0198535N | Data mining,Solution design,Software Development,Project Video| e0402076@u.nus.edu |
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
