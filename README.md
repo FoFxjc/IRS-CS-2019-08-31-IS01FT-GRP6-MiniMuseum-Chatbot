@@ -64,4 +64,5 @@ Our team had an exciting time working on this project, hoping to attract more an
 ## SECTION 7 : MISCELLANEOUS
 
 ### logo.png
+### dataExtraction.py (Designed By LI XINLIN For Data Collection)
 
