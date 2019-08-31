@@ -55,7 +55,7 @@ Our team had an exciting time working on this project, hoping to attract more an
 - Problem Description (Background Description and Business Analysis)
 - Solution (System Architecture and Process Flow)
 - Data Extraction and Improvement
-- Implementation (including the Set up process and Challenge ans those solutions)
+- Implementation (including the Set up process, challenges and solutions)
 - Conclusion
 - Bibliography
 - APPENDICES
